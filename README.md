@@ -60,5 +60,3 @@ Welcome to my **Data Science & Machine Learning portfolio**! This repository con
 - Explainable and interpretable summaries using attention maps  
 
 ---
-
-## 📁 Repository Structure
